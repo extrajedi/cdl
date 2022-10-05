@@ -4,7 +4,9 @@
 #include <stdlib.h> 
 int flagop=0;
 int eq=0;
-//randvalident=0;
+
+
+
 bool isop(char ch)
 {
     switch(ch)
